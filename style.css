@@ -1,5 +1,5 @@
 body{
-    background-image: url(https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif);
+    background-image: url(assets/backgroundbody.gif);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -42,7 +42,6 @@ header{
 }
 
 .container-padre{
-    padding-top: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -51,9 +50,7 @@ header{
 .container {
     display: flex;
     justify-content: center;
-    align-items: center; 
-    height: 60vh; 
-    max-width: 50vh;
+    align-items: center;  
     text-align: center;
     background-color: rgb(29, 29, 29);
     color: white;
@@ -71,8 +68,8 @@ header{
 }
 
 .container img{
-    padding: 20px;
-    border-radius: 300px;
+    padding: 25px;
+    border-radius: 400px;
 
 }
 
